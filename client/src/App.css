@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:wght@300&family=Rubik&family=Work+Sans&display=swap");
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgb(169, 169, 133));
+}
+::-webkit-scrollbar {
+  display: none;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(136, 136, 136, 0.281);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
